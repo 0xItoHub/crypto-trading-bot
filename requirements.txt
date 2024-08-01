@@ -1,0 +1,6 @@
+`requirements.txt`ファイルには必要なPythonパッケージを記載します。
+
+```txt
+pybit
+pandas
+ta
